@@ -7,7 +7,7 @@ namespace PolyMorphMe
         static void Main(string[] args)
         {
             TaiChi technique = new TaiChi();
-            technique
+            
         }
     }
 }

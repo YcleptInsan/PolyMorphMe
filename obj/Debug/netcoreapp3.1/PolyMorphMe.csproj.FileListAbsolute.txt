@@ -1,0 +1,4 @@
+/home/yclept/Clones/dope/PolyMorphMe/obj/Debug/netcoreapp3.1/PolyMorphMe.csprojAssemblyReference.cache
+/home/yclept/Clones/dope/PolyMorphMe/obj/Debug/netcoreapp3.1/PolyMorphMe.AssemblyInfoInputs.cache
+/home/yclept/Clones/dope/PolyMorphMe/obj/Debug/netcoreapp3.1/PolyMorphMe.AssemblyInfo.cs
+/home/yclept/Clones/dope/PolyMorphMe/obj/Debug/netcoreapp3.1/PolyMorphMe.csproj.CoreCompileInputs.cache
